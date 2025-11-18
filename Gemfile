@@ -3,7 +3,7 @@ source "https://rubygems.org"
 ruby "3.4.7"
 
 # Rails 7.1.3 (SQLite 1.7 ile uyumlu stabil sürüm)
-gem "rails", "~> 7.1.3"
+gem "rails", "~> 8.1.1"
 
 # Veritabanı (Windows uyumlu sürüm)
 gem "sqlite3", "~> 1.7.3"
